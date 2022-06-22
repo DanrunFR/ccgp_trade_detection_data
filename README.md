@@ -18,6 +18,7 @@ Each entry has 6 columns:
 - `url`: URL of the original document.
 
 ## Inventory
+```
 ├── data
 │   ├── trade.csv : all entries
 │   ├── trade_annotated.csv :  entries with trade information
@@ -25,3 +26,4 @@ Each entry has 6 columns:
 ├── src
 │   ├── utils.py : cleaning regex and functions
 └── README.md
+```
